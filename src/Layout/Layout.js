@@ -1,6 +1,5 @@
 import React from 'react'
 import styled, {createGlobalStyle, ThemeProvider} from 'styled-components'
-import {Link} from 'gatsby';
 import { theme } from '../utils/theme';
 
 const GlobalStyle = createGlobalStyle`
